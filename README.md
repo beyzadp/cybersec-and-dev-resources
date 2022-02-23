@@ -1,4 +1,4 @@
-<a href="https://discord.gg/wTcCH445Aj">	<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
+<a href="https://discord.gg/wTcCH445Aj" target="_blank">	<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
 
 <h1 align="center">Kaynaklar</h1>
 
@@ -269,7 +269,22 @@
    -  https://docplayer.biz.tr/search/?q=linux+
    -  https://www.corelan.be/index.php/articles/
    -  https://doc.lagout.org/
- 
+
+* ### Fiziksel saldirilar ve fiziksel siber guvenlik
+  - https://nuriacar.com/cevizlab/2020/10/16/badusb.html
+  - https://www.sans.org/white-papers/37120/
+  - http://www.aljazeera.com.tr/al-jazeera-ozel/siber-dunyanin-kiyamet-silahi-bad-usb
+  - https://doc.lagout.org/security/Charles.C.Thomas-Document.Security.Protecting.Physical.and.Electronic.Content.2007.RETAiL.EBook.pdf
+  - https://www.osti.gov/servlets/purl/1427000
+  - https://scadahacker.com/library/Documents/White_Papers/Tripwire%20-%20When%20Cyber%20Attacks%20Get%20Physical.pdf
+  - https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=923409
+  - https://fengweiz.github.io/paper/badusbc-woot21.pdf
+
+
+
+
+
+
 * ### Diger
   - [cv oluşturma](https://flowcv.io/)
   - [openvpn sunucusu kurma](https://hwp.com.tr/kendi-openvpn-sunucunuzu-kurun)
@@ -278,7 +293,6 @@
   - [nmap kullanim](https://www.slideshare.net/cnrkrglu/nmap101-eitim-sunumu-nmap-kullanm-klavuzu)
   - [API nedir](https://ata.com.tr/blog-detay/api-nedir-nasil-calisir-159)
   - [lunizz siber guvenlik sss](https://github.com/LuNiZz/siber-guvenlik-sss)
-
 
 
 
