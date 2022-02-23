@@ -275,7 +275,7 @@
   - [vim kullanimi](https://youtu.be/c5RIbynHoYI)
   - [nmap kullanim](https://www.slideshare.net/cnrkrglu/nmap101-eitim-sunumu-nmap-kullanm-klavuzu)
   - [API nedir](https://ata.com.tr/blog-detay/api-nedir-nasil-calisir-159)
-
+  - [lunizz siber guvenlik sss](https://github.com/LuNiZz/siber-guvenlik-sss)
 
 
 
