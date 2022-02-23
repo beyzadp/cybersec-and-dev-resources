@@ -1,7 +1,7 @@
 <h1 align="center">Kaynaklar</h1>
 
 * ### Pdfler
-  - [mega](https://mega.nz/folder/eFoUzLbb#6rsSXSaVJ48q_xPy52ZE9g)
+  - [beyzanin mega](https://mega.nz/folder/eFoUzLbb#6rsSXSaVJ48q_xPy52ZE9g)
 
 * ### Network
   - https://www.youtube.com/watch?v=2VLfZSlD99U&list=PLlEN794VQ4irACjH2REk4quKBCbvpNH4b
