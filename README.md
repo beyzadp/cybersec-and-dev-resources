@@ -177,6 +177,7 @@
 
 * ### css
   - https://www.youtube.com/watch?v=u4wyRgRiiUU
+  - https://mega.nz/file/yYAxXCbK#yYaNrI1F592WFneZ-1SZ1GGYS-OFOm3k5Rmv-gxpCEw
 
 * ### js
   - https://www.yazilimbilisim.net/javascript/javascript-dersleri/
