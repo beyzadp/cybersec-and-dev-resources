@@ -89,6 +89,7 @@
   - https://e-bergi.com/y/root-files/
   - https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf
   - https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY
+  - https://www.reddit.com/r/linux/comments/b8tj21/systemd_vs_openrc_what_is_it_all_about/
   - https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
 
 
@@ -196,8 +197,7 @@
 
 * ### React Native
   - https://www.youtube.com/watch?v=mfHRZLoRM0Y
-  - https://www.youtube.com/watch?v=mfHRZLoRM0Y
-
+  - 
 * ### Bash scripting
   - https://www.youtube.com/playlist?list=PLPa55dyKM2F0Or4a1E3ir1ZUZkjM1bubZ
   - https://devhints.io/bash
