@@ -299,7 +299,7 @@
   - [Utku Sen Egitimler](https://www.youtube.com/watch?v=oPS5v7OTjnw&list=PLAa-yEtapD02JxtOFw3GiSvgT40UqVsus)
   - [black box ve white box testleri nedir?](https://www.beyaz.net/tr/guvenlik/makaleler/black_box_ve_white_box_testi.html)
   - [Red Team](https://www.priviasecurity.com/siber-guvenlikte-red-team-cozumu/)
-
+  - [Gentoo Kurulum Kilavuzu](https://www.akindemircan.com/2015/10/gentoo-linux-kurulumu.html)
 
 
 
