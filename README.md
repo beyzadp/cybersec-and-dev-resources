@@ -186,6 +186,8 @@
   - https://www.yazilimbilisim.net/javascript/javascript-dersleri/
   - https://www.tasarimkodlama.com/web-tasarimi/javascript-programlama/javascript-ogrenmeye-nereden-baslanir-neden-javascript-ogrenmeliyim/
   - https://www.youtube.com/watch?v=iBww_qa_bV8
+  - https://www.youtube.com/watch?v=CPcpcqaQRvw&list=PLY20HpFruiK12kqke7T5OQVu1BK2ELQL8
+
 
 * ### Php
   - https://www.yusufsezer.com.tr/php-dersleri/
@@ -263,12 +265,13 @@
   - https://www.mehmetince.net/category/cyber-security/penetration-test/
   - https://www.btkakademi.gov.tr/portal/course/player/deliver/siber-guvenlik-temelleri-egitim-paketi-11961
  
- * ### Bolca pdf, makale bulunduran kendiniz bulabileceginiz siteler
+ * ### Bolca pdf, makale bulunduran kendiniz bulabileceginiz siteler ve arsivler
    -  https://siberataksavunma.com/
    -  https://flaviocopes.com/page/list-subscribed/?ref=python-book
    -  https://docplayer.biz.tr/search/?q=linux+
    -  https://www.corelan.be/index.php/articles/
    -  https://doc.lagout.org/
+   -  https://disk.yandex.com.tr/d/eOOc3oB6FyNlqw
 
 * ### Fiziksel saldirilar ve fiziksel siber guvenlik
   - https://nuriacar.com/cevizlab/2020/10/16/badusb.html
@@ -293,8 +296,9 @@
   - [nmap kullanim](https://www.slideshare.net/cnrkrglu/nmap101-eitim-sunumu-nmap-kullanm-klavuzu)
   - [API nedir](https://ata.com.tr/blog-detay/api-nedir-nasil-calisir-159)
   - [lunizz siber guvenlik sss](https://github.com/LuNiZz/siber-guvenlik-sss)
-
-
+  - [Utku Sen Egitimler](https://www.youtube.com/watch?v=oPS5v7OTjnw&list=PLAa-yEtapD02JxtOFw3GiSvgT40UqVsus)
+  - [black box ve white box testleri nedir?](https://www.beyaz.net/tr/guvenlik/makaleler/black_box_ve_white_box_testi.html)
+  - [Red Team](https://www.priviasecurity.com/siber-guvenlikte-red-team-cozumu/)
 
 
 
