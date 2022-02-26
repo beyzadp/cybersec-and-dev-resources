@@ -45,6 +45,7 @@
 
 
 * ### Linux
+  - https://github.com/taylanbildik/Linux_Dersleri/
   - https://egitim.acikkaynakfikirler.com/linux101-landing/
   - https://linux-dersleri.github.io
   - https://www.youtube.com/watch?v=cEhnQN1ZmDI&ab_channel=SametAkbal
