@@ -200,7 +200,7 @@
 
 * ### React Native
   - https://www.youtube.com/watch?v=mfHRZLoRM0Y
-  - 
+  
 * ### Bash scripting
   - https://www.youtube.com/playlist?list=PLPa55dyKM2F0Or4a1E3ir1ZUZkjM1bubZ
   - https://devhints.io/bash
