@@ -284,9 +284,33 @@
   - https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=923409
   - https://fengweiz.github.io/paper/badusbc-woot21.pdf
 
-
-
-
+* ### Exploit Dev
+  - https://dayzerosec.com/blog/2021/02/02/getting-started.html
+  - https://exploit.education/
+  - https://opensecuritytraining.info/Exploits1.html
+  - https://exploit.education/phoenix/
+  - https://ropemporium.com/index.html 
+  - https://www.youtube.com/watch?v=8Dcj19KGKWM
+  - https://www.youtube.com/watch?v=zaQVNM3or7k
+  - https://www.signalsec.com/exploit-gelistirme-egitimi.php
+  - https://gurelahmet.com/stack-tabanl%c4%b1-buffer-overflow-zafiyeti-pcman-ftp-server-2-0-7/
+  - https://www.fuzzysecurity.com/index.html
+  - https://github.com/wtsxDev/Exploit-Development
+  - https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/
+  - https://www.offensive-security.com/awe/EXP401_syllabus.pdf
+  - https://tryhackme.com/room/intropocscripting
+  - https://netsec.ws/?p=262
+  - https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/
+  - https://github.com/tanc7/hacking-books/blob/master/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers%2C%20Forensic%20Analysts%2C%20Penetration%20Testers%20and%20Security%20Engineers.pdf
+  - https://tryhackme.com/room/introtopwntools
+  - https://tryhackme.com/room/introtox8664
+  - https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/exploits/buffer-overflows.rst
+  - https://tryhackme.com/room/postexploit
+  - https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/
+  - https://www.reddit.com/r/ExploitDev/comments/7ywp7a/exploit_development_books/
+  - https://github.com/midnightslacker/exploit_training
+  - https://0x00sec.org/c/exploit-development/53
+  - https://dayzerosec.com/blog/2021/02/02/getting-started.html
 
 
 * ### Diger
