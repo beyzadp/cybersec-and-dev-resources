@@ -6,30 +6,21 @@
   - [beyzanin mega](https://mega.nz/folder/eFoUzLbb#6rsSXSaVJ48q_xPy52ZE9g)
 
 * ### Network
-  - https://www.youtube.com/watch?v=2VLfZSlD99U&list=PLlEN794VQ4irACjH2REk4quKBCbvpNH4b
-  - https://www.youtube.com/watch?v=y54zRqJJ2wY&list=PLDUOF2Be-kznYJCjR4uVEBZawim1BG8o9
+
+  - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
+  - https://www.youtube.com/playlist?list=PL966g7O8Fr34Z-PsTCM1YBzB6COiu0uZp
+  - https://www.ceyrekmuhendis.com/internet-nedir-nasil-calisir/
   - https://www.youtube.com/watch?v=b573S89IhhA&list=PL1XUdfGZZ4rQ0UPDx__7W4LmeLab227vb
   - https://www.youtube.com/watch?v=L4alPp-Tx2M
   - https://www.youtube.com/watch?v=pDn2u65rQbQ
   - https://www.youtube.com/watch?v=_njkTOzKKUY&list=PLlEN794VQ4ir8739Bw-yFEKhz0JTc0O9U
-  - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
   - https://esenbaharturkay.medium.com/devre-anahtarlama-ve-paket-anahtarlama-fda60601590b
-  - https://www.youtube.com/watch?v=y54zRqJJ2wY&list=PLDUOF2Be-kznYJCjR4uVEBZawim1BG8o9
-  - https://www.youtube.com/watch?v=b573S89IhhA&list=PL1XUdfGZZ4rQ0UPDx__7W4LmeLab227vb
-  - https://www.youtube.com/watch?v=pDn2u65rQbQ
-  - https://www.youtube.com/watch?v=_njkTOzKKUY&list=PLlEN794VQ4ir8739Bw-yFEKhz0JTc0O9U
-  - https://www.youtube.com/watch?v=2VLfZSlD99U&list=PLlEN794VQ4irACjH2REk4quKBCbvpNH4b
-  - https://www.youtube.com/playlist?list=PL966g7O8Fr34Z-PsTCM1YBzB6COiu0uZp
-  - https://www.youtube.com/playlist?list=PLDUOF2Be-kznYJCjR4uVEBZawim1BG8o9
   - https://www.youtube.com/playlist?list=PLm-hnICeZgkmDfAkckS7PPURoNUG8ClfX
-  - http://meslek.eba.gov.tr/upload/dk10/Ag_Sistemleri_ve_Anahtarlama_10_3.pdf
   - https://www.udemy.com/course/ag-guvenligi-ccna-security-egitimi/?couponCode=9328E249055548AF6A70
   - https://www.udemy.com/course/cicso-ccna-200-125-egitimi/?couponCode=37AC5A69F4EC7A3A2523
-  - https://youtu.be/pDn2u65rQbQ
   - https://www.mshowto.org/tor-the-onion-router-networku-nedir-nasil-calisir-neden-kullanilir.html
   - https://tr.wikipedia.org/wiki/Baz_istasyonu
   - https://www.ceyrekmuhendis.com/i2c-haberlesme-protokolu/
-  - https://www.ceyrekmuhendis.com/internet-nedir-nasil-calisir/
   - https://www.youtube.com/watch?v=42u_2e6eNF4
   - https://docplayer.biz.tr/431309-Turkce-ccna-egitim-notlari.html
   - https://www.youtube.com/watch?v=e4vJCXInaqQ
@@ -42,6 +33,9 @@
   - https://halilozel1903.medium.com/subnetting-nedir-cb8ca8a1cf5c
   - https://dl.packetstormsecurity.net/papers/general/temel-network.pdf
   - https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/07/osi-katmanlar%C4%B1
+  - https://www.youtube.com/watch?v=y54zRqJJ2wY&list=PLDUOF2Be-kznYJCjR4uVEBZawim1BG8o9
+  - http://meslek.eba.gov.tr/upload/dk10/Ag_Sistemleri_ve_Anahtarlama_10_3.pdf
+  - https://www.youtube.com/watch?v=2VLfZSlD99U&list=PLlEN794VQ4irACjH2REk4quKBCbvpNH4b
 
 
 * ### Linux
