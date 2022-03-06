@@ -172,18 +172,18 @@
 
 
 
-* ### c
+* ### C
   - https://mega.nz/file/PEQ1XAjY#PsETDPrZ_h7IuvwxhM12DLyVR0klfyfSMO27eeGCJX0
 
-* ### html
+* ### HTML
   - https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLPn_xAjZBn1NyFqD5UEsBQ_tGxN3-zEhU
   - https://html.sitesi.web.tr/html-dili.html
 
-* ### css
+* ### CSS
   - https://www.youtube.com/watch?v=u4wyRgRiiUU
   - https://mega.nz/file/yYAxXCbK#yYaNrI1F592WFneZ-1SZ1GGYS-OFOm3k5Rmv-gxpCEw
 
-* ### js
+* ### JavaScript
   - https://www.yazilimbilisim.net/javascript/javascript-dersleri/
   - https://www.tasarimkodlama.com/web-tasarimi/javascript-programlama/javascript-ogrenmeye-nereden-baslanir-neden-javascript-ogrenmeliyim/
   - https://www.youtube.com/watch?v=iBww_qa_bV8
@@ -205,17 +205,24 @@
   - https://www.youtube.com/playlist?list=PLPa55dyKM2F0Or4a1E3ir1ZUZkjM1bubZ
   - https://devhints.io/bash
 
-* ### cpp
+* ### C++
   - https://www.youtube.com/playlist?list=PLsLILIGvjrijwl8AMCD0pIg9VWxAXY9E1
 
-* ### c sharp
+* ### C#
   - https://youtu.be/7mWYhTPnD04
+  - https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi
+  - https://youtube.com/playlist?list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD
+  - https://www.btkakademi.gov.tr/portal/course/c-7008
+  - https://www.w3schools.com/cs/index.php
+  - https://youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K
 
 
 
+* ### Unity
 
-
-
+   - https://youtu.be/pwZpJzpE2lQ
+   - https://docs.unity3d.com/Manual/index.html
+   
 
 
 
@@ -256,7 +263,7 @@
   - http://auzefkitap.istanbul.edu.tr/kitap/kok/yonetimbilisimsistemleriau232.pdf
   - https://www.oracle.com/tr/database/what-is-database/
 
-* ### genel güzel siber başlangıç pdfleri
+* ### Genel güzel siber güvenlik PDFleri
   - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
   - https://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf
   - https://www.siberguvenlik.online/2021/12/04/siber-guvenlik-terimleri-sozlugu-2/
