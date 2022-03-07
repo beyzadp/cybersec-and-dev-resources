@@ -183,6 +183,8 @@
  
 * ### Genel dev
   - https://www.codingame.com/ide/puzzle/onboarding
+  - https://github.com/aycanogut/front-end-resources
+  - https://www.linkedin.com/posts/rogerfavelron_think-different-a-different-roadmap-to-activity-6870708283796258816-AyDf
   - https://roadmap.sh/
   - https://goalkicker.com/
   - https://github.com/melihthedev/books-1
@@ -217,6 +219,8 @@
 
 * ### C
   - https://mega.nz/file/PEQ1XAjY#PsETDPrZ_h7IuvwxhM12DLyVR0klfyfSMO27eeGCJX0
+  - https://www.youtube.com/watch?v=w3_e9vZj7D8&t=3076s
+  - https://www.youtube.com/watch?v=443UNeGrFoM&t=4177s
 
 * ### HTML
   - https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLPn_xAjZBn1NyFqD5UEsBQ_tGxN3-zEhU
@@ -231,6 +235,7 @@
   - https://www.tasarimkodlama.com/web-tasarimi/javascript-programlama/javascript-ogrenmeye-nereden-baslanir-neden-javascript-ogrenmeliyim/
   - https://www.youtube.com/watch?v=iBww_qa_bV8
   - https://www.youtube.com/watch?v=CPcpcqaQRvw&list=PLY20HpFruiK12kqke7T5OQVu1BK2ELQL8
+  - https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15
 
 
 * ### Php
