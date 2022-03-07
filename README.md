@@ -90,18 +90,6 @@
 
 
 
-* ### Elektronik
-  - https://www.youtube.com/watch?v=wMfkpeOLWD8&t=469s
-  - https://www.youtube.com/watch?v=bEr9SIVno9c
-  - https://www.udemy.com/course/elektronik-temellerine-giris-tasarim-ve-uygulamalar-2020/
-
-
-
-* ### Algoritma
-  - https://www.tasarimkodlama.com/kategori/algoritma/
-  - https://www.tasarimkodlama.com/kategori/algoritma/
-  - https://www.youtube.com/watch?v=Q2DoA4HID5A&list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ
-
 
 
 * ###	Web Security
@@ -131,6 +119,67 @@
   - https://medium.com/@mmgoktas38/cross-site-scripting-xss-zafiyeti-nedir-fc149be926db
   - https://www.youtube.com/watch?v=-BPnSQou8yw&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&index=7
   - https://www.siberguvenlik.web.tr/index.php/2021/05/11/xxe-injection-nedir/
+
+* ### Malware Analysis and Coding
+
+  - [Malware Coding Roadmap](https://www.quora.com/How-do-you-get-into-malware-development)
+  - https://tryhackme.com/room/rpmetasploit
+  - https://techsupportwhale.com/wp-content/uploads/2020/05/Types-of-Malware.pdf
+  - https://marsisinovasyon.com/en-kapsamli-ansys-statik-analiz-firma/
+  - https://www.turkhackteam.org/konular/temel-statik-malware-analiz-c-reverse-shell.1967601/
+  - https://umuttosun.com/malware-analizi/
+  - https://academy.binance.com/tr/articles/what-is-a-digital-signature
+  - https://cnsatuva.github.io/files/Intro_Reverse_Malware_Analysis.pdf
+  - https://www.sentinelone.com/labs/top-15-essential-malware-analysis-tools/
+  - https://tr.secnews.gr/101781/mousejack-sald%C4%B1r%C4%B1s%C4%B1/
+  - https://www.crowe.com/cybersecurity-watch/wireless-peripheral-hijacking-mousejack-attacks-explained-dgs
+  - https://www.udemy.com/share/105Jps3@5IcOMql36YhdTgEq_nLvCUIr2LPQjsu6COSFt3MGbUXtgxCOg-ryjbJwOZTne1PtdQ==/
+  - https://dergidir.com/dijital-imza-nedir/
+  - https://gaissecurity.com/bilgi/zararli-yazilim-analiz-teknikleri/
+  - https://tech-zealots.com/malware-analysis/pe-portable-executable-structure-malware-analysis-part-2/
+  - https://osmanmarangoz.wordpress.com/2009/06/14/soket-programlamasocket-programming/
+  - https://kerteriz.net/python-socket-programlama-nedir/
+  - https://www.howtogeek.com/196672/windows-memory-dumps-what-exactly-are-they-for/
+  - https://helpdeskgeek.com/windows-10/how-to-analyze-memory-dump-files-dmp-in-windows-10/
+  - https://www.squiddylab.com/emotet-zararli-yaziliminin-teknik-analizi/
+  - https://securityliterate.com/malware-analysis-in-5-minutes-deobfuscating-powershell-scripts/
+  - https://threatpost.com/powershell-payload-analysis-malware/165188/
+  - https://www.crowdstrike.com/cybersecurity-101/malware/malware-analysis/
+  - http://dlupdate.quickheal.com/documents/technical_papers/introduction_to_malware_and_malware_analysis.pdf
+  - https://cdn.ttgtmedia.com/rms/pdf/bookshelf_malware_analysis_techniques_excerpt.pdf
+  - https://www.winitor.com/pdf/Malware-Analysis-Fundamentals-Files-Tools.pdf
+  - https://zeltser.com/media/docs/intro-to-malware-analysis.pdf
+  - http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf
+  - https://tryhackme.com/room/vulnnetinternal
+  - https://tryhackme.com/room/malmalintroductory
+  - https://www.pinvoke.net/default.aspx/kernel32/DLLs.html
+  - https://umuttosun.com/portable-executablepe-file-format-i/
+  - https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/pe-file-header-parser-in-c++
+  - https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/#more-120
+  - https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/#more-194
+  - https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/#more-696
+  - https://pentest.blog/art-of-anti-detection-4-self-defense/#more-1631
+  - https://pentest.blog/introducing-new-packing-method-first-reflective-pe-packer/#more-1141
+  - https://www.youtube.com/playlist?list=PLDpFwQfbVxIw_rysNCHPeGmh6wIUnhjrt
+  - https://www.ired.team/miscellaneous-reversing-forensics/aes-encryption-example-using-cryptopp-.lib-in-visual-studio-c++
+  - https://fatihsensoy.com/Process-Injection-Teknikleri/
+  - http://www.tolgasezer.com.tr/2015/07/tut-crypter-binder-packer-nedir.html
+  - https://www.priviasecurity.com/dll-injection/
+  - https://github.com/m0n0ph1/Process-Hollowing
+  - https://www.youtube.com/watch?v=v4OydHD-W7Q
+
+
+* ### Elektronik
+  - https://www.youtube.com/watch?v=wMfkpeOLWD8&t=469s
+  - https://www.youtube.com/watch?v=bEr9SIVno9c
+  - https://www.udemy.com/course/elektronik-temellerine-giris-tasarim-ve-uygulamalar-2020/
+
+
+
+* ### Algoritma
+  - https://www.tasarimkodlama.com/kategori/algoritma/
+  - https://www.tasarimkodlama.com/kategori/algoritma/
+  - https://www.youtube.com/watch?v=Q2DoA4HID5A&list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ
  
 * ### Genel dev
   - https://www.codingame.com/ide/puzzle/onboarding
@@ -284,6 +333,8 @@
   - https://scadahacker.com/library/Documents/White_Papers/Tripwire%20-%20When%20Cyber%20Attacks%20Get%20Physical.pdf
   - https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=923409
   - https://fengweiz.github.io/paper/badusbc-woot21.pdf
+  - https://sepio.systems/wp-content/uploads/2020/08/BadUSB-Case-Study-new.pdf
+  - https://res.mdpi.com/d_attachment/electronics/electronics-08-01322/article_deploy/electronics-08-01322-v2.pdf
 
 * ### Exploit Dev
   - https://dayzerosec.com/blog/2021/02/02/getting-started.html
@@ -326,7 +377,7 @@
   - [black box ve white box testleri nedir?](https://www.beyaz.net/tr/guvenlik/makaleler/black_box_ve_white_box_testi.html)
   - [Red Team](https://www.priviasecurity.com/siber-guvenlikte-red-team-cozumu/)
   - [Gentoo Kurulum Kilavuzu](https://www.akindemircan.com/2015/10/gentoo-linux-kurulumu.html)
-
+  - [hashcat kullanimi](https://www.prismacsi.com/hashcat-kullanimi/)
 
 
 
