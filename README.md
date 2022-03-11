@@ -36,6 +36,8 @@
   - https://www.youtube.com/watch?v=y54zRqJJ2wY&list=PLDUOF2Be-kznYJCjR4uVEBZawim1BG8o9
   - http://meslek.eba.gov.tr/upload/dk10/Ag_Sistemleri_ve_Anahtarlama_10_3.pdf
   - https://www.youtube.com/watch?v=2VLfZSlD99U&list=PLlEN794VQ4irACjH2REk4quKBCbvpNH4b
+  - https://www.youtube.com/watch?v=SyD2hvkdgoM
+  - https://www.youtube.com/watch?v=haBM0e-5UL0
 
 
 * ### Linux
@@ -88,7 +90,9 @@
   - https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
 
 
+* ### PrivEsc
 
+  - https://www.exploit-db.com/docs/turkish/42757-[turkish]-windows-and-linux-privilege-escalation.pdf
 
 
 
@@ -119,6 +123,11 @@
   - https://medium.com/@mmgoktas38/cross-site-scripting-xss-zafiyeti-nedir-fc149be926db
   - https://www.youtube.com/watch?v=-BPnSQou8yw&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&index=7
   - https://www.siberguvenlik.web.tr/index.php/2021/05/11/xxe-injection-nedir/
+  - http://index-of.es/Hack/No.Starch.The.Tangled.Web.Nov.2011.pdf
+  - https://code-elif.blogspot.com/2022/01/spring-security-5-ve-oauth-20-ile-web.html
+  - https://github.com/mdisec/topluluk-makale/tree/master/HTTP%20Headers%20and%20Cookies
+  - https://application.security/free/owasp-top-10
+  - https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
 
 * ### Malware Analysis and Coding
 
@@ -180,8 +189,12 @@
   - https://www.tasarimkodlama.com/kategori/algoritma/
   - https://www.tasarimkodlama.com/kategori/algoritma/
   - https://www.youtube.com/watch?v=Q2DoA4HID5A&list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ
+
+
  
 * ### Genel dev
+
+  - https://www.birlikteihracat.com/yeni-yazilimciya-oneriler/
   - https://www.codingame.com/ide/puzzle/onboarding
   - https://github.com/aycanogut/front-end-resources
   - https://www.linkedin.com/posts/rogerfavelron_think-different-a-different-roadmap-to-activity-6870708283796258816-AyDf
@@ -191,6 +204,10 @@
   - https://www.w3schools.com/
   - https://www.savol-javob.com/tr/yeni-ba%C5%9Flayanlar-i%C3%A7in-bir-web-programlama-haritas%C4%B1/
   - https://www.youtube.com/watch?v=y745R3Lv9WI&t=24027s&ab_channel=Yaz%C4%B1l%C4%B1mBilimi
+  - [Pointer Nedir](https://youtu.be/53iB4gnUEiU)
+  - https://www.freecodecamp.org/learn
+  - [Veri Tipleri](https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/c-101/veri-tipleri)
+  - https://tr.khanacademy.org/computing/computer-programming
 
 
 * ### Python
@@ -200,9 +217,11 @@
   - https://www.btkakademi.gov.tr/portal/course/player/deliver/s-f-rdan-ileri-seviye-python-programlama-5877
   - https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
   - https://suleymanogrekci.wordpress.com/python-dersleri/
+  - https://www.google.com/amp/s/kerteriz.net/python-socket-programlama-nedir/amp/
 
 
 * ### go
+  - https://youtu.be/goC2z7n9fq4
   - https://www.tasarimkodlama.com/go-programlama/go-programlama-dili-dersleri/
   - https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa
   - https://mega.nz/file/KdYhRIyQ#k9NWOo8HZGcT6GOF6RzbqZ2_71sWh6ehPJIR22Vt6mE
@@ -214,6 +233,8 @@
   - https://www.cosmiclearn.com/go/index.php
   - https://www.golangprograms.com/go-language.html
   - https://edu.anarcho-copy.org/T%C3%BCrk%C3%A7e%20-%20Turkish/Go%20T%C3%BCrk%C3%A7e%20kaynak_.pdf*/
+  - https://github.com/mdisec/golang-for-hackers-turkish-edition
+  - https://www.youtube.com/watch?v=jR683fqYVOo
 
 
 
@@ -245,6 +266,7 @@
 * ### Sql
   - https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249
   - https://www.hosting.com.tr/bilgi-bankasi/sql-nedir/
+  - https://tr.khanacademy.org/computing/computer-programming/sql
 
 * ### React Native
   - https://www.youtube.com/watch?v=mfHRZLoRM0Y
@@ -368,7 +390,10 @@
   - https://github.com/midnightslacker/exploit_training
   - https://0x00sec.org/c/exploit-development/53
   - https://dayzerosec.com/blog/2021/02/02/getting-started.html
+  - https://www.fuzzysecurity.com/tutorials/expDev/1.html
 
+* ### Reverse Eng
+  - https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf
 
 * ### Diger
   - [cv oluşturma](https://flowcv.io/)
@@ -383,8 +408,14 @@
   - [Red Team](https://www.priviasecurity.com/siber-guvenlikte-red-team-cozumu/)
   - [Gentoo Kurulum Kilavuzu](https://www.akindemircan.com/2015/10/gentoo-linux-kurulumu.html)
   - [hashcat kullanimi](https://www.prismacsi.com/hashcat-kullanimi/)
-
-
+  - [Amazon AWS -ucretsiz sanal sunucu acma](https://youtu.be/XgyXomYiIyM)
+  - [MDISEC Twitch](https://www.twitch.tv/mdisec)
+  - [Ingilizce Zamanlar](https://www.youtube.com/watch?v=YoUg06tEMkY)
+  - [Isletim Sistemleri](https://www.youtube.com/playlist?list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf)
+  - [Linus Torvalds](https://youtu.be/o8NPllzkFhE)
+  - [Binary Nedir](https://youtu.be/ai2HX77tpEs)
+  - [Ingilizce](https://www.voscreen.com/)
+  - [Revolution OS (documentary about GNU/Linux)](https://youtu.be/k0RYQVkQmWU)
 
 
 
