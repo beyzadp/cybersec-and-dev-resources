@@ -176,6 +176,7 @@
   - https://www.priviasecurity.com/dll-injection/
   - https://github.com/m0n0ph1/Process-Hollowing
   - https://www.youtube.com/watch?v=v4OydHD-W7Q
+  - https://cuckoosandbox.org/
 
 
 * ### Elektronik
@@ -402,6 +403,7 @@
   - https://urun.n11.com/bilgisayar-kitaplari/gnu-linux-egitim-kitabi-P411271880
   - https://www.udemy.com/course/cicso-ccna-200-125-egitimi/
   - https://www.udemy.com/course/ag-guvenligi-ccna-security-egitimi/
+  - https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/
 
 * ### Diger
   - [cv oluşturma](https://flowcv.io/)
@@ -424,6 +426,7 @@
   - [Binary Nedir](https://youtu.be/ai2HX77tpEs)
   - [Ingilizce](https://www.voscreen.com/)
   - [Revolution OS (documentary about GNU/Linux)](https://youtu.be/k0RYQVkQmWU)
+  - [Google Hack(pdf bulma)](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Long.pdf)
 
 * ### Kaliteli Siber & Yazilim Discord Sunuculari
   - [Cyber White](https://discord.gg/wTcCH445Aj)
