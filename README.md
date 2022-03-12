@@ -88,6 +88,7 @@
   - https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY
   - https://www.reddit.com/r/linux/comments/b8tj21/systemd_vs_openrc_what_is_it_all_about/
   - https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
+  - https://youtube.com/playlist?list=PLGWmuqrfJZRscAXSYLLQEfBCa2TidEUid
 
 
 * ### PrivEsc
@@ -194,7 +195,7 @@
 
  
 * ### Genel dev
-
+  - https://github.com/fatihacet/turkcekaynaklar-com
   - https://www.birlikteihracat.com/yeni-yazilimciya-oneriler/
   - https://www.codingame.com/ide/puzzle/onboarding
   - https://github.com/aycanogut/front-end-resources
@@ -209,6 +210,7 @@
   - https://www.freecodecamp.org/learn
   - [Veri Tipleri](https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/c-101/veri-tipleri)
   - https://tr.khanacademy.org/computing/computer-programming
+  - [Sunucu tarafında Node.js ve ön tarafta React.js kullanarak nasıl Google Authentication yapılabilir](https://medium.com/software-development-turkey/node-js-react-js-kullanarak-google-authentication-sa%C4%9Flama-e66758474ea2)
 
 
 * ### Python
@@ -236,6 +238,7 @@
   - https://edu.anarcho-copy.org/T%C3%BCrk%C3%A7e%20-%20Turkish/Go%20T%C3%BCrk%C3%A7e%20kaynak_.pdf*/
   - https://github.com/mdisec/golang-for-hackers-turkish-edition
   - https://www.youtube.com/watch?v=jR683fqYVOo
+  - [golang ile web gelistirme](https://lnkd.in/eQXMabS)
 
 
 
@@ -343,6 +346,7 @@
   - https://www.prismacsi.com/1-siber-guvenlik-temelleri/
   - https://www.mehmetince.net/category/cyber-security/penetration-test/
   - https://www.btkakademi.gov.tr/portal/course/player/deliver/siber-guvenlik-temelleri-egitim-paketi-11961
+  - https://drive.google.com/drive/folders/1dOcAgLfhfBc0eNtQmgtbWDyCtsg5gIiK
  
  * ### Bolca pdf, makale bulunduran kendiniz bulabileceginiz siteler ve arsivler
    -  https://siberataksavunma.com/
@@ -427,6 +431,11 @@
   - [Ingilizce](https://www.voscreen.com/)
   - [Revolution OS (documentary about GNU/Linux)](https://youtu.be/k0RYQVkQmWU)
   - [Google Hack(pdf bulma)](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Long.pdf)
+  - [all the cheatsheets](https://overapi.com/)
+  - [Ethical Hacking in 12 Hours](https://youtu.be/fNzpcB7ODxQ)
+  - [Bir SaaS urununu hayata gecirmek](https://youtu.be/cqULp5aYDiE)
+  - [Compiler nasılsın çalışır/yazılır](https://github.com/mbugrayildiz/lord/blob/main/_docs/misc/resources.md)
+  - [how to become an open source contributor](https://medium.com/@mstrYoda/how-to-become-an-open-source-contributor-6f2f8214c6d2)
 
 * ### Kaliteli Siber & Yazilim Discord Sunuculari
   - [Cyber White](https://discord.gg/wTcCH445Aj)
