@@ -89,6 +89,7 @@
   - https://www.reddit.com/r/linux/comments/b8tj21/systemd_vs_openrc_what_is_it_all_about/
   - https://docplayer.biz.tr/1661397-Kim-korkar-linux-tan.html
   - https://youtube.com/playlist?list=PLGWmuqrfJZRscAXSYLLQEfBCa2TidEUid
+  - https://demirten.gitbooks.io/linux-sistem-programlama/content/capabilities/
 
 
 * ### PrivEsc
@@ -211,6 +212,9 @@
   - [Veri Tipleri](https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/c-101/veri-tipleri)
   - https://tr.khanacademy.org/computing/computer-programming
   - [Sunucu tarafında Node.js ve ön tarafta React.js kullanarak nasıl Google Authentication yapılabilir](https://medium.com/software-development-turkey/node-js-react-js-kullanarak-google-authentication-sa%C4%9Flama-e66758474ea2)
+  - [Full Stack Web Dev Course](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM)
+  - [Front End](https://microsoft.github.io/frontend-bootcamp/)
+  - [Front Endd](https://github.com/Microsoft/frontend-bootcamp#frontend-bootcamp--days-in-the-web)
 
 
 * ### Python
@@ -262,6 +266,9 @@
   - https://www.youtube.com/watch?v=iBww_qa_bV8
   - https://www.youtube.com/watch?v=CPcpcqaQRvw&list=PLY20HpFruiK12kqke7T5OQVu1BK2ELQL8
   - https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15
+  - https://github.com/TheAlgorithms/Javascript
+  - https://github.com/trekhleb/javascript-algorithms
+  - https://github.com/ilker0/33-js-concepts
 
 
 * ### Php
@@ -290,6 +297,7 @@
   - https://www.btkakademi.gov.tr/portal/course/c-7008
   - https://www.w3schools.com/cs/index.php
   - https://youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K
+  - [OOP C#](https://mhmtbsrglu-2.medium.com/nesne-y%C3%B6neli%CC%87mli%CC%87-programlamaya-gi%CC%87ri%CC%87%C5%9F-ve-m%C3%BC%C5%9Fteri%CC%87-%C3%B6rne%C4%9Fi%CC%87-oop-introduction-with-example-of-29880ae053a8)
 
 
 
@@ -297,6 +305,7 @@
 
    - https://youtu.be/pwZpJzpE2lQ
    - https://docs.unity3d.com/Manual/index.html
+   - https://www.youtube.com/watch?v=who6TEPt4is&list=PLo7_YgjhDT-1x-un___OqPrnz8f8W7Hsj
    
 
 
@@ -417,6 +426,7 @@
   - [vim kullanimi](https://youtu.be/c5RIbynHoYI)
   - [nmap kullanim](https://www.slideshare.net/cnrkrglu/nmap101-eitim-sunumu-nmap-kullanm-klavuzu)
   - [API nedir](https://ata.com.tr/blog-detay/api-nedir-nasil-calisir-159)
+  - [Bir dakikada api nedir](https://mhmtbsrglu-2.medium.com/1-daki%CC%87ka-da-api-c7dfffbcd422)
   - [lunizz siber guvenlik sss](https://github.com/LuNiZz/siber-guvenlik-sss)
   - [Utku Sen Egitimler](https://www.youtube.com/watch?v=oPS5v7OTjnw&list=PLAa-yEtapD02JxtOFw3GiSvgT40UqVsus)
   - [black box ve white box testleri nedir?](https://www.beyaz.net/tr/guvenlik/makaleler/black_box_ve_white_box_testi.html)
@@ -437,6 +447,7 @@
   - [Bir SaaS urununu hayata gecirmek](https://youtu.be/cqULp5aYDiE)
   - [Compiler nasılsın çalışır/yazılır](https://github.com/mbugrayildiz/lord/blob/main/_docs/misc/resources.md)
   - [how to become an open source contributor](https://medium.com/@mstrYoda/how-to-become-an-open-source-contributor-6f2f8214c6d2)
+  - [HakanBey sunucusunda asiri guzel ve bir suru pdf](https://discord.com/channels/847598347116478494/877687933837127730/877688633186992168)
 
 * ### Kaliteli Siber & Yazilim Discord Sunuculari
   - [Cyber White](https://discord.gg/wTcCH445Aj)
