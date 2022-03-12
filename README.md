@@ -496,6 +496,7 @@
   - [endpoint guvenligi](https://www.linkedin.com/pulse/u%C3%A7-noktaendpoint-g%C3%BCvenli%C4%9Fi-fevziye-tas/?originalSubdomain=tr)
   - [403 bypass tool](https://github.com/M4DM0e/DirDar)
   - [rate limit bypass tool](https://github.com/cyberstruggle/whitepass)
+  - [arch linux steam icin butun oyun hatalari ve cozumleri](https://wiki.archlinux.org/title/Steam/Troubleshooting)
 
 
 * ### Kaliteli Siber & Yazilim Discord Sunuculari
