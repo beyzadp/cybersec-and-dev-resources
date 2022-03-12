@@ -254,6 +254,7 @@
 * ### CSS
   - https://www.youtube.com/watch?v=u4wyRgRiiUU
   - https://mega.nz/file/yYAxXCbK#yYaNrI1F592WFneZ-1SZ1GGYS-OFOm3k5Rmv-gxpCEw
+  - [FlexBox nedir](https://1sahinomer1.medium.com/css-flexbox-3339ebd92085)
 
 * ### JavaScript
   - https://www.yazilimbilisim.net/javascript/javascript-dersleri/
