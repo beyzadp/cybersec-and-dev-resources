@@ -407,6 +407,28 @@
   - https://dayzerosec.com/blog/2021/02/02/getting-started.html
   - https://www.fuzzysecurity.com/tutorials/expDev/1.html
 
+* ### Bug Bounty
+
+  - [Hacking'i Öğrenmek İçin Adım Adım Rehber](https://www.youtube.com/watch?v=2TofunAI6fU)
+  - [İlk Bug'ınızı Avlayın](https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community)
+  - [Port Swigger Web Güvenlik Akademisi](https://portswigger.net/web-security/learning-path)
+  - [Nahamsec'in Twitch'i](https://www.twitch.tv/nahamsec)
+  - [Nahamsec'in En İyi Bug Bounty Avcılarıyla Olan Röportajları](https://www.youtube.com/c/Nahamsec)
+  - [Nahamsec'in Başlangıç Seviyesi İçin Kaynakları](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+  - [Stök YouTube Kanalı](https://www.youtube.com/c/STOKfredrik)
+  - [InsiderPhD Youtube Kanalı](https://www.youtube.com/c/InsiderPhD)
+  - [Yeni Bug Bounty Avcıları İçin Oynatma Listesi](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw)
+  - [Jhaddix YouTube Kanalı](https://www.youtube.com/c/jhaddix)
+  
+  Hacker101 Üyelerinden, Hacklemeye Nasıl Başlayacağınıza Dair Yazılar:
+  - [zonduu](https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f)
+  - [p4nda](https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html)
+  - [Ayrıca Subdomain Ele Geçirmeyle İlgili Bir Blog](https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html)
+  - [clos2100'ün Teknik Bir Altyapınız Olmadan Neler Yapabileceğiniz Hakkındaki Tweet'i](https://twitter.com/pirateducky/status/1300566000665014275)
+  - [el-madjus'un 0'dan Bug Bounty Hunter Olma Hikayesi](https://klarsen.net/uncategorized/from-0-to-bug-hunter-my-journey/)
+  - [dee-see'nin Android Hacking Kaynakları](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html)
+  - [hacker101 Eğitim Videoları](https://www.hacker101.com/)
+
 * ### Reverse Eng
   - https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf
 
@@ -448,6 +470,7 @@
   - [Compiler nasılsın çalışır/yazılır](https://github.com/mbugrayildiz/lord/blob/main/_docs/misc/resources.md)
   - [how to become an open source contributor](https://medium.com/@mstrYoda/how-to-become-an-open-source-contributor-6f2f8214c6d2)
   - [HakanBey sunucusunda asiri guzel ve bir suru pdf](https://discord.com/channels/847598347116478494/877687933837127730/877688633186992168)
+  - [Reverse Shell Generator](https://www.revshells.com/)
 
 * ### Kaliteli Siber & Yazilim Discord Sunuculari
   - [Cyber White](https://discord.gg/wTcCH445Aj)
