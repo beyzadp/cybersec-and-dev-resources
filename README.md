@@ -38,6 +38,9 @@
   - https://www.youtube.com/watch?v=2VLfZSlD99U&list=PLlEN794VQ4irACjH2REk4quKBCbvpNH4b
   - https://www.youtube.com/watch?v=SyD2hvkdgoM
   - https://www.youtube.com/watch?v=haBM0e-5UL0
+  - [TCP dokumantasyonu(tr)](http://www.belgeler.org/rfc/rfc793.html)
+  - [tcp dokumantasyinu ing](https://tools.ietf.org/html/rfc793)
+  - https://tools.ietf.org/html/
 
 
 * ### Linux
@@ -130,6 +133,8 @@
   - https://github.com/mdisec/topluluk-makale/tree/master/HTTP%20Headers%20and%20Cookies
   - https://application.security/free/owasp-top-10
   - https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
+  - https://hacklido.com/blog/183
+  - [Http Request ve Http Response nedir](https://youtu.be/PD8r9ISYgQo)
 
 * ### Malware Analysis and Coding
 
@@ -215,6 +220,8 @@
   - [Full Stack Web Dev Course](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM)
   - [Front End](https://microsoft.github.io/frontend-bootcamp/)
   - [Front Endd](https://github.com/Microsoft/frontend-bootcamp#frontend-bootcamp--days-in-the-web)
+  - https://learnxinyminutes.com/
+  - [gunluk challangelarin yayinlandigi bir site](https://imaginary.ml/)
 
 
 * ### Python
@@ -225,6 +232,8 @@
   - https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
   - https://suleymanogrekci.wordpress.com/python-dersleri/
   - https://www.google.com/amp/s/kerteriz.net/python-socket-programlama-nedir/amp/
+  - [Kendi python kutuphanenizi yayinlama](https://youtu.be/7NsJK1wrp1Y)
+  - https://s5.dosya.tc/server5/nh5xw5/rogramming-For-Total-Beginners-No-Starch-Press-2019.pdf.html
 
 
 * ### go
@@ -243,6 +252,7 @@
   - https://github.com/mdisec/golang-for-hackers-turkish-edition
   - https://www.youtube.com/watch?v=jR683fqYVOo
   - [golang ile web gelistirme](https://lnkd.in/eQXMabS)
+  - https://go.kaanksc.com/
 
 
 
@@ -365,6 +375,8 @@
    -  https://www.corelan.be/index.php/articles/
    -  https://doc.lagout.org/
    -  https://disk.yandex.com.tr/d/eOOc3oB6FyNlqw
+   -  https://drive.google.com/drive/folders/12E5wVhmtSNkkFXsRyH2bX3wikYmGBRDE?usp=sharing
+   -  https://mega.nz/folder/7E4jFYTb#AWm4et8AH8XfFg0GeEnjQA
 
 * ### Fiziksel saldirilar ve fiziksel siber guvenlik
   - https://nuriacar.com/cevizlab/2020/10/16/badusb.html
@@ -428,6 +440,9 @@
   - [el-madjus'un 0'dan Bug Bounty Hunter Olma Hikayesi](https://klarsen.net/uncategorized/from-0-to-bug-hunter-my-journey/)
   - [dee-see'nin Android Hacking Kaynakları](https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html)
   - [hacker101 Eğitim Videoları](https://www.hacker101.com/)
+  - https://github.com/tomnomnom
+  - https://github.com/hahwul/dalfox
+  - https://github.com/KingOfBugbounty/KingOfBugBountyTips
 
 * ### Reverse Eng
   - https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf
@@ -465,12 +480,23 @@
   - [Revolution OS (documentary about GNU/Linux)](https://youtu.be/k0RYQVkQmWU)
   - [Google Hack(pdf bulma)](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Long.pdf)
   - [all the cheatsheets](https://overapi.com/)
+  - [cheatsheet paylasan bir site](https://devhints.io/)
   - [Ethical Hacking in 12 Hours](https://youtu.be/fNzpcB7ODxQ)
   - [Bir SaaS urununu hayata gecirmek](https://youtu.be/cqULp5aYDiE)
   - [Compiler nasılsın çalışır/yazılır](https://github.com/mbugrayildiz/lord/blob/main/_docs/misc/resources.md)
   - [how to become an open source contributor](https://medium.com/@mstrYoda/how-to-become-an-open-source-contributor-6f2f8214c6d2)
   - [HakanBey sunucusunda asiri guzel ve bir suru pdf](https://discord.com/channels/847598347116478494/877687933837127730/877688633186992168)
   - [Reverse Shell Generator](https://www.revshells.com/)
+  - [Derslerden yazılıma oyundan yabancı dile binlerce cheetsheet'in olduğu sayfa](https://cheatography.com/)
+  - [İçinde bir sürü yararlı websitesinin ve linkin bulunduğu yararlı bir websitesi](https://turkcekaynaklar.com/)
+  - [acik kaynak projelere nasil katki saglarim, nasil para kazanirim, nasil cv kasarim](https://youtu.be/yzeVMecydCE)
+  - [metasploit kursu](https://www.offensive-security.com/metasploit-unleashed/)
+  - [nessus pro](https://hide01.ir/downloads/nessus-pro/)
+  - [api security](https://github.com/arainho/awesome-api-security)
+  - [endpoint guvenligi](https://www.linkedin.com/pulse/u%C3%A7-noktaendpoint-g%C3%BCvenli%C4%9Fi-fevziye-tas/?originalSubdomain=tr)
+  - [403 bypass tool](https://github.com/M4DM0e/DirDar)
+  - [rate limit bypass tool](https://github.com/cyberstruggle/whitepass)
+
 
 * ### Kaliteli Siber & Yazilim Discord Sunuculari
   - [Cyber White](https://discord.gg/wTcCH445Aj)
