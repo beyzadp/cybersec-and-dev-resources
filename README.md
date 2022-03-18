@@ -423,6 +423,7 @@
   - https://0x00sec.org/c/exploit-development/53
   - https://dayzerosec.com/blog/2021/02/02/getting-started.html
   - https://www.fuzzysecurity.com/tutorials/expDev/1.html
+  - https://github.com/rosehgal/BinExp
 
 * ### Bug Bounty
 
