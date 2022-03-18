@@ -2,6 +2,9 @@
 
 <h1 align="center">Kaynaklar</h1>
 
+  - [siber güvenlikte nasıl gelişebilirim, nerden baslamaliyim?](https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/)
+
+
 * ### Pdfler
   - [beyzanin mega](https://mega.nz/folder/eFoUzLbb#6rsSXSaVJ48q_xPy52ZE9g)
 
@@ -460,7 +463,6 @@
 * ### Diger
   - [cv oluşturma](https://flowcv.io/)
   - [openvpn sunucusu kurma](https://hwp.com.tr/kendi-openvpn-sunucunuzu-kurun)
-  - [siber güvenlikte nasıl gelişebilirim, nerden baslamaliyim?](https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/)
   - [vim kullanimi](https://youtu.be/c5RIbynHoYI)
   - [nmap kullanim](https://www.slideshare.net/cnrkrglu/nmap101-eitim-sunumu-nmap-kullanm-klavuzu)
   - [API nedir](https://ata.com.tr/blog-detay/api-nedir-nasil-calisir-159)
