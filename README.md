@@ -381,6 +381,7 @@
    -  https://disk.yandex.com.tr/d/eOOc3oB6FyNlqw
    -  https://drive.google.com/drive/folders/12E5wVhmtSNkkFXsRyH2bX3wikYmGBRDE?usp=sharing
    -  https://mega.nz/folder/7E4jFYTb#AWm4et8AH8XfFg0GeEnjQA
+   -  https://github.com/tanc7/hacking-books
 
 * ### Fiziksel saldirilar ve fiziksel siber guvenlik
   - https://nuriacar.com/cevizlab/2020/10/16/badusb.html
