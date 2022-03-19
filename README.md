@@ -2,7 +2,7 @@
 
 <h1 align="center">Kaynaklar</h1>
 
-  - [siber güvenlikte nasıl gelişebilirim, nerden baslamaliyim?](https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/)
+  - [[MDISEC] siber güvenlikte nasıl gelişebilirim, nerden baslamaliyim?](https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/)
 
 
 * ### Pdfler
