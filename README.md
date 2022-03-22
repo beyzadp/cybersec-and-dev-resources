@@ -493,7 +493,7 @@
   - [cheatsheet paylasan bir site](https://devhints.io/)
   - [Ethical Hacking in 12 Hours](https://youtu.be/fNzpcB7ODxQ)
   - [Bir SaaS urununu hayata gecirmek](https://youtu.be/cqULp5aYDiE)
-  - [Compiler nasılsın çalışır/yazılır](https://github.com/mbugrayildiz/lord/blob/main/_docs/misc/resources.md)
+  - [Compiler nasıl çalışır/yazılır](https://www.elektrikport.com/makale-detay/c-derleyicisi-ve-calisma-prensibi/16474#ad-image-0)
   - [how to become an open source contributor](https://medium.com/@mstrYoda/how-to-become-an-open-source-contributor-6f2f8214c6d2)
   - [HakanBey sunucusunda asiri guzel ve bir suru pdf](https://discord.com/channels/847598347116478494/877687933837127730/877688633186992168)
   - [Reverse Shell Generator](https://www.revshells.com/)
