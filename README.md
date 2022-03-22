@@ -442,6 +442,7 @@
   - [InsiderPhD Youtube Kanalı](https://www.youtube.com/c/InsiderPhD)
   - [Yeni Bug Bounty Avcıları İçin Oynatma Listesi](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw)
   - [Jhaddix YouTube Kanalı](https://www.youtube.com/c/jhaddix)
+  - [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
   
   Hacker101 Üyelerinden, Hacklemeye Nasıl Başlayacağınıza Dair Yazılar:
   - [zonduu](https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f)
