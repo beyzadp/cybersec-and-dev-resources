@@ -45,6 +45,7 @@
   - [tcp dokumantasyinu ing](https://tools.ietf.org/html/rfc793)
   - https://tools.ietf.org/html/
   - https://www.lammle.com/
+  - https://www.youtube.com/watch?v=6xwomn-k2TA&list=PLm-hnICeZgkmDfAkckS7PPURoNUG8ClfX
 
 
   PDFler
