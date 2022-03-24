@@ -387,6 +387,7 @@
    -  https://mega.nz/folder/7E4jFYTb#AWm4et8AH8XfFg0GeEnjQA
    -  https://github.com/tanc7/hacking-books
    -  http://turkcekaynaklar.com/
+   -  https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
 
 * ### Fiziksel saldirilar ve fiziksel siber guvenlik
   - https://nuriacar.com/cevizlab/2020/10/16/badusb.html
