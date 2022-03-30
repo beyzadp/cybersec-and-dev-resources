@@ -48,9 +48,6 @@
   - https://www.youtube.com/watch?v=6xwomn-k2TA&list=PLm-hnICeZgkmDfAkckS7PPURoNUG8ClfX
 
 
-  PDFler
-  - https://dl101.zlibcdn.com/dtoken/2320ce582b6f2fdc108643c3bdcd88c9
-
 
 * ### Linux
   - https://github.com/taylanbildik/Linux_Dersleri/
