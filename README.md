@@ -429,6 +429,7 @@
   - https://www.fuzzysecurity.com/tutorials/expDev/1.html
   - https://github.com/rosehgal/BinExp
   - https://github.com/midnightslacker/exploit_training
+  - https://dayzerosec.com/blog/2021/02/02/getting-started.html 
   - [Operating System Concepts Book](http://web.cse.ohio-state.edu/~soundarajan.1/courses/3430/silberschatz8thedition.pdf)
   - [Operating System Concepts kitabi turkce anlatim](https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf&index=3)
 
