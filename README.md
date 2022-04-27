@@ -500,6 +500,7 @@
   - [403 bypass tool](https://github.com/M4DM0e/DirDar)
   - [rate limit bypass tool](https://github.com/cyberstruggle/whitepass)
   - [arch linux steam icin butun oyun hatalari ve cozumleri](https://wiki.archlinux.org/title/Steam/Troubleshooting)
+  - [sayi sistemlerinin birbiri arasinda donusumu](https://koddefteri.net/dijital-elektronik/sayi-sistemlerinin-birbiri-arasinda-donusumu.html)
 
 
 * ### Kaliteli Siber & Yazilim Discord Sunuculari
