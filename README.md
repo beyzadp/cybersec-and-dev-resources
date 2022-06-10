@@ -505,6 +505,7 @@
 
 
 * ### Kaliteli Siber & Yazilim Discord Sunuculari
+  - [Leafyet Studio](https://discord.gg/ykfrnTXqy2)
   - [Cyber White](https://discord.gg/wTcCH445Aj)
   - [Yusuf Ipek](https://discord.gg/36nauqXJgd)
   - [Utku Sen](https://discord.gg/GgbRTzfZdA)
