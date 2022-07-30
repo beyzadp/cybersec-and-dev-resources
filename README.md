@@ -501,7 +501,6 @@
   - [rate limit bypass tool](https://github.com/cyberstruggle/whitepass)
   - [arch linux steam icin butun oyun hatalari ve cozumleri](https://wiki.archlinux.org/title/Steam/Troubleshooting)
   - [sayi sistemlerinin birbiri arasinda donusumu](https://koddefteri.net/dijital-elektronik/sayi-sistemlerinin-birbiri-arasinda-donusumu.html)
-  - [ccna exam and ansvers](https://itexamanswers.net/ccna-200-301-dumps-full-questions-exam-study-guide-free.html)
 
 
 
