@@ -504,17 +504,6 @@
   - [ccna exam and ansvers](https://itexamanswers.net/ccna-200-301-dumps-full-questions-exam-study-guide-free.html)
 
 
-* ### Kaliteli Siber & Yazilim Discord Sunuculari
-  - [Leafyet Studio](https://discord.gg/ykfrnTXqy2)
-  - [Cyber White](https://discord.gg/wTcCH445Aj)
-  - [Yusuf Ipek](https://discord.gg/36nauqXJgd)
-  - [Utku Sen](https://discord.gg/GgbRTzfZdA)
-  - [om3rcitak](https://discord.gg/SyBYV7YK2c)
-  - [Dev Sec](https://discord.gg/AxRbneKFM7)
-  - [HakanBey](https://discord.gg/FehaB4hC82)
-  - [Soft Sec](https://discord.com/invite/u4cX3RnPkN)
-  - [Hacker 101](https://discord.gg/SqqWAgSyh9)
-  - [LuNiZzers](https://discord.gg/lunizz)
 
 
 
