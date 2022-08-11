@@ -369,7 +369,6 @@
    -  https://docplayer.biz.tr/search/?q=linux+
    -  https://www.corelan.be/index.php/articles/
    -  https://doc.lagout.org/
-   -  https://disk.yandex.com.tr/d/eOOc3oB6FyNlqw
    -  https://drive.google.com/drive/folders/12E5wVhmtSNkkFXsRyH2bX3wikYmGBRDE?usp=sharing
    -  https://mega.nz/folder/7E4jFYTb#AWm4et8AH8XfFg0GeEnjQA
    -  https://github.com/tanc7/hacking-books
@@ -501,7 +500,8 @@
   - [rate limit bypass tool](https://github.com/cyberstruggle/whitepass)
   - [arch linux steam icin butun oyun hatalari ve cozumleri](https://wiki.archlinux.org/title/Steam/Troubleshooting)
   - [sayi sistemlerinin birbiri arasinda donusumu](https://koddefteri.net/dijital-elektronik/sayi-sistemlerinin-birbiri-arasinda-donusumu.html)
-
+  - [pentesting programlama becerisi gerektirir mi?](https://www.youtube.com/watch?v=wv2YhT89LDU)
+  - 
 
 
 
