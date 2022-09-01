@@ -502,7 +502,7 @@
   - [arch linux steam icin butun oyun hatalari ve cozumleri](https://wiki.archlinux.org/title/Steam/Troubleshooting)
   - [sayi sistemlerinin birbiri arasinda donusumu](https://koddefteri.net/dijital-elektronik/sayi-sistemlerinin-birbiri-arasinda-donusumu.html)
   - [pentesting programlama becerisi gerektirir mi?](https://www.youtube.com/watch?v=wv2YhT89LDU)
-  - 
+  - [isletim sistemleri ile ilgili neredeyse her sey](http://williamstallings.com/OperatingSystems/)
 
 
 
