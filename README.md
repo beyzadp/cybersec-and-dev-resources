@@ -305,8 +305,10 @@
   - https://youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K
   - [OOP C#](https://mhmtbsrglu-2.medium.com/nesne-y%C3%B6neli%CC%87mli%CC%87-programlamaya-gi%CC%87ri%CC%87%C5%9F-ve-m%C3%BC%C5%9Fteri%CC%87-%C3%B6rne%C4%9Fi%CC%87-oop-introduction-with-example-of-29880ae053a8)
 
-
-
+* ### Assembly
+  - https://gpfault.net/posts/asm-tut-0.txt.html
+  - https://www.tutorialspoint.com/assembly_programming/index.htm
+  - https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 * ### Unity
 
    - https://youtu.be/pwZpJzpE2lQ
