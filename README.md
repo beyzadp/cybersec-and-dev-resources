@@ -5,9 +5,6 @@
   - [[MDISEC] siber güvenlikte nasıl gelişebilirim, nerden baslamaliyim?](https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/)
 
 
-* ### Pdfler
-  - [beyzanin mega](https://mega.nz/folder/eFoUzLbb#6rsSXSaVJ48q_xPy52ZE9g)
-
 * ### Network
 
   - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
