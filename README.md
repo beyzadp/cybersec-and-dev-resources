@@ -502,7 +502,7 @@
   - [sayi sistemlerinin birbiri arasinda donusumu](https://koddefteri.net/dijital-elektronik/sayi-sistemlerinin-birbiri-arasinda-donusumu.html)
   - [pentesting programlama becerisi gerektirir mi?](https://www.youtube.com/watch?v=wv2YhT89LDU)
   - [isletim sistemleri ile ilgili neredeyse her sey](http://williamstallings.com/OperatingSystems/)
-
+  - [kapali kaynak uygulamalarin acik kaynak alternatifleri](https://www.opensourcealternative.to/)
 
 
 
