@@ -7,6 +7,7 @@
 
 * ### Network
 
+  - https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/
   - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
   - https://www.youtube.com/playlist?list=PL966g7O8Fr34Z-PsTCM1YBzB6COiu0uZp
   - https://www.ceyrekmuhendis.com/internet-nedir-nasil-calisir/
